@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/Catworx.badgeMaker.csproj",
+      "projectUniqueName": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker.csproj",
       "projectName": "Catworx.badgeMaker",
-      "projectPath": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/Catworx.badgeMaker.csproj",
+      "projectPath": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker.csproj",
       "packagesPath": "/Users/michaeldreesen/.nuget/packages/",
-      "outputPath": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/",
+      "outputPath": "/Users/michaeldreesen/Documents/Programming/projects/badgemaker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michaeldreesen/.nuget/NuGet/NuGet.Config"
