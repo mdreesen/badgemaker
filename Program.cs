@@ -95,7 +95,12 @@ namespace Catworx.badgeMaker
             employees.Add("Barbara");
             employees.Add("Billy");
 
-            Console.WriteLine("My employees include {0}, {1}, {2}, and {3}", employees[0], employees[1], employees[2], employees[3]);
+            // Console.WriteLine("My employees include {0}, {1}, {2}, and {3}", employees[0], employees[1], employees[2], employees[3]);
+
+            // LOOP
+            for (int i = 0; i < employees.Count; i++) {
+                Console.WriteLine(employees[i]);
+            };
         }
     }
 }
