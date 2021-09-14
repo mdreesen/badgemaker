@@ -1,0 +1,15 @@
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/Catworx.badgeMaker.deps.json
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/Catworx.badgeMaker.runtimeconfig.json
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/Catworx.badgeMaker.runtimeconfig.dev.json
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/Catworx.badgeMaker.dll
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/ref/Catworx.badgeMaker.dll
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/bin/Debug/net5.0/Catworx.badgeMaker.pdb
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.csproj.AssemblyReference.cache
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.AssemblyInfoInputs.cache
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.AssemblyInfo.cs
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.csproj.CoreCompileInputs.cache
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.dll
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/ref/Catworx.badgeMaker.dll
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.pdb
+/Users/michaeldreesen/Documents/Programming/projects/badgemaker/Catworx.badgeMaker/obj/Debug/net5.0/Catworx.badgeMaker.genruntimeconfig.cache
